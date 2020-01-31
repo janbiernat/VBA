@@ -1,5 +1,0 @@
-;Zagnieżdżenie funkcji JEŻELI, 
-;na przykładzie dni tygodnia. 
-; 
-=JEŻELI(A1=1;"Poniedziałek[Monday]";JEŻELI(A1=2;"Wtorek[Tuesday]";JEŻELI(A1=3;"Środa[Wednesday]";JEŻELI(A1=4;"Czwartek[Thursday]";JEŻELI(A1=5;"Piątek[Friday]";JEŻELI(A1=6;"Sobota[Saturday]";JEŻELI(A1=7;"Niedziela[Sunday]";"?"))))))) 
-- 
