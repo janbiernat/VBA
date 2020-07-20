@@ -2,6 +2,11 @@ Sub ciag_fibonacciego()
 'Ciąg Fibonacciego by Leonardo Fibonacci
 'Oprogramowanie (c)by Jan T. Biernat
 '
+'Każda liczba w ciągu jest sumą dwóch poprzednich (poza pierwszą i drugą). 
+'Mamy więc do czynienia z ciągiem rekurencyjnym. 
+'Ciąg liczbowy Fibonacciego jest pierwszym ze znanych ciągów tego rodzaju. 
+    'Ciąg Fibonacciego: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ..., n.
+'
     A = 0 'Zadeklarowanie zmiennej liczbowej "A" i przypisanie do niej wartości 0.
     B = 1
     Cells(1, 2).Value = A 'Przepisanie zawartości zmiennej liczbowej "A" do komórki B1 (tj. w1, k2).
