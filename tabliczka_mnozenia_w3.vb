@@ -31,6 +31,7 @@ Sub LosujPytanie()
     Cells(3, 1).Value = CStr(ZG_iLiczbaA) + " x " + CStr(ZG_iLiczbaB)   'CStr(P1) - Zamienia cyfrę na liczbę traktowaną jako tekst.
                                                                         '           W miejsce parametru (tj. P1) należy umieścić zmienną liczbową.
 End Sub
+
 Sub Komentarz(logDobry As Boolean)
 'Wyświetlenie komentarza do podanej odpowiedzi.
 '
