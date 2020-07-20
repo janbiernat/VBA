@@ -5,7 +5,7 @@ Sub ciag_fibonacciego()
 'Każda liczba w ciągu jest sumą dwóch poprzednich (poza pierwszą i drugą). 
 'Mamy więc do czynienia z ciągiem rekurencyjnym. 
 'Ciąg liczbowy Fibonacciego jest pierwszym ze znanych ciągów tego rodzaju. 
-    'Ciąg Fibonacciego: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ..., n.
+'Ciąg Fibonacciego: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ..., n.
 '
     A = 0 'Zadeklarowanie zmiennej liczbowej "A" i przypisanie do niej wartości 0.
     B = 1
